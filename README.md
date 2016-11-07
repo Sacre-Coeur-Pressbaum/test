@@ -2,5 +2,22 @@
 school project - simply a git hub test
 project members:
 Sebastian Kroaptschek
-Max Reimann
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Felix Pichl
 
