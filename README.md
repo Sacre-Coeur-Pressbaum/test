@@ -1,4 +1,4 @@
-# test
+# Test
 
 school project - simply a git hub test
 
