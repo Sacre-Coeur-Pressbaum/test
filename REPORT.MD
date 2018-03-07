@@ -7,7 +7,7 @@
 5. [File Read/Write](#file-read/write)
 6. [Testing](#testing)
 
-## `ECS150-FS File System`
+## ECS150-FS File System
 
 ### Superblock struct
 ### FAT struct
