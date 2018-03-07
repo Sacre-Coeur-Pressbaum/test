@@ -1,13 +1,13 @@
 # Project 4 Report
 
-1. [API Structure](#ecs150-file-system-api)
+1. [ECS150-FS File System](#ecs150-fs-file-system)
 2. [Mounting/Unmounting](#mounting/unmounting)
 3. [File Creation/Deletion](#file-creation/deletion)
 4. [File Descriptor operations](#file-descriptor-operations)
 5. [File Read/Write](#file-read/write)
 6. [Testing](#testing)
 
-## `ECS150 File System API`
+## `ECS150-FS File System`
 
 ### Superblock struct
 ### FAT struct
